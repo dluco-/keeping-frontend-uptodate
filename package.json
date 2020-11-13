@@ -1,0 +1,18 @@
+{
+  "name": "keeping-frontend-uptodate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test: Running all the tests. Looks good!\"",
+    "build": "echo \"Build: Compiling all the code. Done!\"",
+    "start": "echo \"Start: Development server started ...\"",
+    "update": "npx npm-check -u -E"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pad-left": "2.1.0"
+  }
+}
