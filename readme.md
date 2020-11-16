@@ -17,12 +17,12 @@
 
 # Workflow
 
-before work
-create branch
-update, patch, minor, major
-build
-test
-start (manual test), rarely needed
-Do actual work
-Fix any upcoming issues
-Done
+- before work
+- create branch
+- update, patch, minor, major
+- build
+- test
+- start (manual test), rarely needed
+- Do actual work
+- Fix any upcoming issues
+- Done
